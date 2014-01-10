@@ -1,0 +1,8 @@
+* Code Reading (26h)
+* Working Effective with Legacy Code (14h)
+* Head First Design Patterns (28h)
+* Effective C++ (12h)
+* More Effective C++ (10h)
+* C++ templates (12h)
+-------------------- 102h --------------------
+
